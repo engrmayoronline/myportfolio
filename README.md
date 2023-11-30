@@ -6,7 +6,5 @@ In this repository, you'll find a curated collection of projects that exemplify 
 
 🔵Contents:
   🔹Project Descriptions: Detailed insights into the goals, methodologies, and outcomes of each project.
-  
-  🔹Codebase: Access the codebase for a hands-on exploration of the technical aspects of the projects.
-  
+  🔹Codebase: Access the codebase for a hands-on exploration of the technical aspects of the projects. 
   🔹Results: Visualize the impact of the solutions through visual representations, reports, and analytics.
