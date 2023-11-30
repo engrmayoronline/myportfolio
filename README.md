@@ -1,4 +1,7 @@
+![profile picture](https://github.com/engrmayoronline/myportfolio/assets/94368441/f1723481-4d9c-4517-abf4-3fbc484f3882)
+
 # myportfolio
+
 Welcome to myportfolio – a showcase of my journey in engineering innovative solutions, seamlessly integrating technology, and driving business growth through visionary leadership.
 
 🔵Overview:
